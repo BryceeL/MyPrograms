@@ -17,7 +17,7 @@ public class Lab1{
 		// create a Scanner object to get input from the keyboard
 		Scanner input = new Scanner(System.in);
 
-
+		//a new comment
 		// declare three integer variables to hold the test scores  
 		int test1, test2 = 0, test3 = 0;
 		
